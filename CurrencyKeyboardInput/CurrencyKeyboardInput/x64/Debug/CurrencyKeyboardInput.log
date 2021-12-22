@@ -1,0 +1,13 @@
+﻿  Main.cpp
+  Source.cpp
+D:\OOP\Practice\CurrencyKeyboardInput\CurrencyKeyboardInput\Source.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\Practice\CurrencyKeyboardInput\CurrencyKeyboardInput\Source.cpp(15,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\Practice\CurrencyKeyboardInput\CurrencyKeyboardInput\Source.cpp(26,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\Practice\CurrencyKeyboardInput\CurrencyKeyboardInput\Source.cpp(54,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\Practice\CurrencyKeyboardInput\CurrencyKeyboardInput\Source.cpp(108,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\Practice\CurrencyKeyboardInput\CurrencyKeyboardInput\Source.cpp(139,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\Practice\CurrencyKeyboardInput\CurrencyKeyboardInput\Source.cpp(198,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+D:\OOP\Practice\CurrencyKeyboardInput\CurrencyKeyboardInput\Source.cpp(100): warning C4715: 'IntegerToThousandSeparatedUIConverter::convertBack': not all control paths return a value
+D:\OOP\Practice\CurrencyKeyboardInput\CurrencyKeyboardInput\Source.cpp(185): warning C4715: 'IntegerToCurrencyUIConverter::convertBack': not all control paths return a value
+  CurrencyKeyboardInput.vcxproj -> D:\OOP\Practice\CurrencyKeyboardInput\x64\Debug\CurrencyKeyboardInput.exe
