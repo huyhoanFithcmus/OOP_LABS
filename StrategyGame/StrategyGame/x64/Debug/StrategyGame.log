@@ -1,0 +1,7 @@
+﻿  Main.cpp
+D:\OOP\Practice\StrategyGame\StrategyGame\Main.cpp(14,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Source.cpp
+D:\OOP\Practice\StrategyGame\StrategyGame\Source.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\Practice\StrategyGame\StrategyGame\Source.cpp(57,38): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  StrategyGame.vcxproj -> D:\OOP\Practice\StrategyGame\x64\Debug\StrategyGame.exe
