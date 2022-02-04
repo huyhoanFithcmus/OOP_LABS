@@ -22,7 +22,7 @@
 
 ## [Lab 9](https://tdquang7.notion.site/Lab-09-Factory-design-pattern-improvement-with-Singleton-Prototype-Smart-pointer-3d469c7f6b37456b96d9237e2e13cbea): Factory design pattern
 
-## [Lab 10](https://tdquang7.notion.site/Lab-09-Factory-design-pattern-improvement-with-Singleton-Prototype-Smart-pointer-3d469c7f6b37456b96d9237e2e13cbea): Visitor, Observer
+## [Lab 10](https://tdquang7.notion.site/Lab-10-Practicing-2d3ba63af8d845cca551765a8d89a2bb): Visitor, Observer
 
 ## [Project 1](https://tdquang7.notion.site/Project-Mock-data-generator-4a5b4226fd344ac89889dc05862723ee): Project Mock data generator
 
